@@ -13,7 +13,7 @@ spec:
   chartGitPath: podinfo
   releaseName: podinfo-dev
   values:
-    image: tompson/podinfo:dev-
+    image: tompson/podinfo:dev-dd230p6h
     replicaCount: 1
     hpa:
       enabled: false
