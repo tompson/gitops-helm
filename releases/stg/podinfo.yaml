@@ -13,7 +13,7 @@ spec:
   chartGitPath: podinfo
   releaseName: podinfo-rc
   values:
-    image: stefanprodan/podinfo:stg-9ij63o4c
+    image: tompson/podinfo:stg-mtknz9kk
     replicaCount: 2
     hpa:
       enabled: true
