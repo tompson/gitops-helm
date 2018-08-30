@@ -13,5 +13,5 @@ spec:
   chartGitPath: podinfo
   releaseName: podinfo-prod
   values:
-    image: tompson/podinfo:0.4.13
+    image: tompson/podinfo:0.4.14
     replicaCount: 3
